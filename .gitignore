@@ -4,3 +4,5 @@
 
 **/*.db
 **/*.exe
+
+app/**/node_modules
